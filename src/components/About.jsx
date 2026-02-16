@@ -27,7 +27,7 @@ const About = () => {
               Craftsmanship Rooted in Tradition
             </h2>
             <p className="text-light/70 leading-relaxed mb-6">
-              For over 9 years, Akmens Burtininkas has been the trusted name in natural stone masonry. 
+              For over 9 years, Akmens Burtininkass has been the trusted name in natural stone masonry. 
               Our team of master craftsmen combines time-honored techniques with modern engineering 
               to deliver stonework that stands the test of time.
             </p>

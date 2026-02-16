@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: "John Smith",
     role: "Homeowner",
-    text: "Akmens Burtininkas transformed our outdoor space with a beautiful stone patio. The craftsmanship is impeccable and the team was professional throughout.",
+    text: "Akmens Burtininkass transformed our outdoor space with a beautiful stone patio. The craftsmanship is impeccable and the team was professional throughout.",
     rating: 5,
     image: "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
   },

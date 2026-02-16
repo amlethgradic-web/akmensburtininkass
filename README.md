@@ -1,4 +1,4 @@
-# Akmens Burtininkas - Stone Masonry & Tiling Landing Page
+# Akmens Burtininkass - Stone Masonry & Tiling Landing Page
 
 A professional, responsive landing page for a stone masonry and tiling business built with React and Tailwind CSS.
 
@@ -149,7 +149,7 @@ npm run build
 
 ## 📞 Business Information
 
-**Akmens Burtininkas**
+**Akmens Burtininkass**
 - Phone: +370 645 39 734
 - Email: akmensburtininkas@pm.me
 - Website: www.akmensburtininkas.lt
@@ -164,6 +164,6 @@ For support, email akmensburtininkas@pm.me or call +370 645 39 734.
 
 ---
 
-**Built with ❤️ for Akmens Burtininkas Stone Masonry**
+**Built with ❤️ for Akmens Burtininkass Stone Masonry**
 
 Last updated: 2026-02-16

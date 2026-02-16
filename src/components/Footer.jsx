@@ -9,8 +9,8 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="md:col-span-1">
             <a href="#" className="inline-block mb-6">
-              <div className="font-display text-2xl font-bold text-light tracking-wide hover:text-secondary transition-colors">
-                AKMENS<span className="text-secondary"> BURTININKAS</span>
+                <div className="font-display text-2xl font-bold text-light tracking-wide hover:text-secondary transition-colors">
+                AKMENS<span className="text-secondary"> BURTININKASS</span>
               </div>
             </a>
             <p className="text-light/60 text-sm leading-relaxed">
@@ -80,7 +80,7 @@ const Footer = () => {
 
             {/* Copyright */}
             <p className="text-light/40 text-xs text-center md:text-right">
-              © 2026 Akmens Burtininkas. All rights reserved. Licensed & Insured.
+              © 2026 Akmens Burtininkass. All rights reserved. Licensed & Insured.
             </p>
           </div>
         </div>
